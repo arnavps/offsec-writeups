@@ -12,13 +12,26 @@ These aren't polished blog posts — they're structured study notes written to a
 offsec-writeups/
 ├── TryHackMe/
 │   ├── Pre Security/
+│   │   ├── 1. Introduction to Cyber Security/
+│   │   ├── 2. Network Fundamentals/
+│   │   ├── 3. How The Web Works/
+│   │   ├── 4. Computer Fundamentals/
+│   │   ├── 5. Operating Systems Basics/
+│   │   ├── 6. Software Basics/
+│   │   └── 7. Attacks and Defenses/
+│   ├── Cyber Security 101/
+│   ├── Jr Penetration Tester/
+│   ├── Red Teaming/
+│   ├── Web Fundamentals/
+│   ├── Web Application Testing/
+│   └── Web Application Red Teaming/
 ├── HackTheBox/
 └── CTFs/
 ```
 
 ---
 
-## Currently Doing
+## Progress
 
 ### TryHackMe — Pre Security
 
@@ -27,8 +40,8 @@ offsec-writeups/
 | 1. Introduction to Cyber Security | Complete |
 | 2. Network Fundamentals | Complete |
 | 3. How The Web Works | Complete |
-| 4. Computer Fundamentals | In Progress |
-| 5. Operating Systems Basics | In Progress |
+| 4. Computer Fundamentals | Complete |
+| 5. Operating Systems Basics | Complete |
 | 6. Software Basics | In Progress |
 | 7. Attacks and Defenses | In Progress |
 
@@ -47,6 +60,42 @@ Each writeup follows a consistent structure:
 - **Key Learnings** — the takeaways worth remembering
 
 ---
+
+## Completed Writeups
+
+**Introduction to Cyber Security**
+- [Offensive Security Intro](TryHackMe/Pre%20Security/1.%20Introduction%20to%20Cyber%20Security/offensivesecurityintro.md)
+- [Defensive Security Intro](TryHackMe/Pre%20Security/1.%20Introduction%20to%20Cyber%20Security/defensivesecurityintro.md)
+
+**Network Fundamentals**
+- [Networking Basics](TryHackMe/Pre%20Security/2.%20Network%20Fundamentals/networkingbasics.md)
+- [LAN Topologies](TryHackMe/Pre%20Security/2.%20Network%20Fundamentals/lantopologies.md)
+- [OSI Model](TryHackMe/Pre%20Security/2.%20Network%20Fundamentals/osimodel.md)
+- [Packets and Frames](TryHackMe/Pre%20Security/2.%20Network%20Fundamentals/packetsandframes.md)
+- [Extending Your Network](TryHackMe/Pre%20Security/2.%20Network%20Fundamentals/extendingyournetwork.md)
+
+**How The Web Works**
+- [DNS in Detail](TryHackMe/Pre%20Security/3.%20How%20The%20Web%20Works/dnsindetail.md)
+- [HTTP in Detail](TryHackMe/Pre%20Security/3.%20How%20The%20Web%20Works/httpindetail.md)
+- [How Websites Work](TryHackMe/Pre%20Security/3.%20How%20The%20Web%20Works/howwebsiteswork.md)
+- [Putting It All Together](TryHackMe/Pre%20Security/3.%20How%20The%20Web%20Works/puttingitalltogether.md)
+
+**Computer Fundamentals**
+- [Inside a Computer](TryHackMe/Pre%20Security/4.%20Computer%20Fundamentals/insideacomputer.md)
+- [Computer Types](TryHackMe/Pre%20Security/4.%20Computer%20Fundamentals/computertypes.md)
+- [Client Server Basics](TryHackMe/Pre%20Security/4.%20Computer%20Fundamentals/clientserverbasics.md)
+- [Virtualization Basics](TryHackMe/Pre%20Security/4.%20Computer%20Fundamentals/virtualizationbasics.md)
+- [Cloud Computing Fundamentals](TryHackMe/Pre%20Security/4.%20Computer%20Fundamentals/cloudcomputingfundamentals.md)
+
+**Operating Systems Basics**
+- [OS Introduction](TryHackMe/Pre%20Security/5.%20Operating%20Systems%20Basics/osintroduction.md)
+- [Windows Basics](TryHackMe/Pre%20Security/5.%20Operating%20Systems%20Basics/windowsbasics.md)
+- [Linux CLI Basics](TryHackMe/Pre%20Security/5.%20Operating%20Systems%20Basics/linuxclibasics.md)
+- [Windows CLI Basics](TryHackMe/Pre%20Security/5.%20Operating%20Systems%20Basics/windowsclibasics.md)
+- [OS Security](TryHackMe/Pre%20Security/5.%20Operating%20Systems%20Basics/ossecurity.md)
+
+---
+
 ## Notes
 
 - Writeups are added as rooms are completed — no skipping ahead
