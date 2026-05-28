@@ -84,7 +84,7 @@ Service detection performed. Please report any incorrect results at https://nmap
 Nmap done: 1 IP address (1 host up) scanned in 164.41 seconds
 ```
 
-![nmap scan](1.png)
+![nmap scan](screenshots/1.png)
 
 `80`
 
@@ -117,7 +117,7 @@ Disallow: /umbraco_client/
 
 **6. What is the domain of the website?**
 
-![website homepage](2.png)
+![website homepage](screenshots/2.png)
 
 `Anthem.com`
 
@@ -125,7 +125,7 @@ Disallow: /umbraco_client/
 
 - [A cheers to our IT department](http://10.10.247.201/archive/a-cheers-to-our-it-department/)
 
-![admin name poem](3.png)
+![admin name poem](screenshots/3.png)
 
 `Solomon Grundy`
 
@@ -133,7 +133,7 @@ Disallow: /umbraco_client/
 
 - [We are hiring](http://10.10.247.201/archive/we-are-hiring/)
 
-![admin email](4.png)
+![admin email](screenshots/4.png)
 
 `sg@anthem.com`
 
@@ -147,7 +147,7 @@ Our beloved admin left some flags behind that we require to gather before we pro
 
 - view-source:http://10.10.247.201/archive/we-are-hiring/
 
-![flag 1 source](5.png)
+![flag 1 source](screenshots/5.png)
 
 ```
 <meta content="THM{█████████████████}" property="og:description" />
@@ -159,7 +159,7 @@ Our beloved admin left some flags behind that we require to gather before we pro
 
 - view-source:http://10.10.247.201/blog/
 
-![flag 2 source](6.png)
+![flag 2 source](screenshots/6.png)
 
 ```
 <input type="text" name="term" placeholder="Search... THM{█████████████████}" />
@@ -171,7 +171,7 @@ Our beloved admin left some flags behind that we require to gather before we pro
 
 - http://10.10.247.201/authors/jane-doe/
 
-![flag 3](7.png)
+![flag 3](screenshots/7.png)
 
 `THM{█████████████████}`
 
@@ -179,7 +179,7 @@ Our beloved admin left some flags behind that we require to gather before we pro
 
 - view-source:http://10.10.247.201/archive/a-cheers-to-our-it-department/
 
-![flag 4 source](8.png)
+![flag 4 source](screenshots/8.png)
 
 ```
 <meta content="THM{█████████████████}" property="og:description" />
@@ -199,23 +199,23 @@ Let's get into the box using the intel we gathered.
 
 **2. Gain initial access to the machine, what is the contents of user.txt?**
 
-![user.txt](9.png)
+![user.txt](screenshots/9.png)
 
 `THM{█████████████████}`
 
 **3. Can we spot the admin password?**
 
-![backup folder](10.png)
+![backup folder](screenshots/10.png)
 
-![file permissions](11.png)
+![file permissions](screenshots/11.png)
 
-![admin password](12.png)
+![admin password](screenshots/12.png)
 
 `█████████████████████`
 
 **4. Escalate your privileges to root, what is the contents of root.txt?**
 
-![root.txt](13.png)
+![root.txt](screenshots/13.png)
 
 `THM{█████████████████}`
 
