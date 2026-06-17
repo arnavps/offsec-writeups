@@ -12,17 +12,9 @@ These aren't polished blog posts — they're structured study notes written to a
 offsec-writeups/
 ├── TryHackMe/
 │   ├── Pre Security/
-│   │   ├── 1. Introduction to Cyber Security/
-│   │   ├── 2. Network Fundamentals/
-│   │   ├── 3. How The Web Works/
-│   │   ├── 4. Computer Fundamentals/
-│   │   ├── 5. Operating Systems Basics/
-│   │   ├── 6. Software Basics/
-│   │   └── 7. Attacks and Defenses/
 │   ├── Cyber Security 101/
 │   ├── Jr Penetration Tester/
 │   ├── Red Teaming/
-│   ├── Web Fundamentals/
 │   ├── Web Application Testing/
 │   └── Web Application Red Teaming/
 ├── HackTheBox/
@@ -45,11 +37,47 @@ offsec-writeups/
 | 6. Software Basics | Complete |
 | 7. Attacks and Defenses | Complete |
 
-### TryHackMe — Cyber Security 101 — Up Next
+### TryHackMe — Cyber Security 101 — Complete
 
 | Module | Status |
 |---|---|
-| Cyber Security 101 | In Progress |
+| 1. Start Your Cyber Security Journey | Complete |
+| 2. Linux Fundamentals | Complete |
+| 3. Windows and AD Fundamentals | Complete |
+| 4. Command Line | Complete |
+| 5. Networking | Complete |
+| 6. Cryptography | Complete |
+| 7. Exploitation Basics | Complete |
+| 8. Web Hacking | Complete |
+| 9. Offensive Security Tooling | Complete |
+| 10. Defensive Security | Complete |
+| 11. Security Solutions | Complete |
+| 12. Defensive Security Tooling | Complete |
+| 13. Build Your CyberSecurity Career | Complete |
+| 14. OWASP Top 10 (2025) | Complete |
+
+### TryHackMe — Jr Penetration Tester — In Progress
+
+| Module | Status |
+|---|---|
+| 1. Start Your Cyber Security Journey | Complete |
+| 2. Penetration Testing Foundations | In Progress |
+| 3. Network Reconnaissance | Upcoming |
+| 4. Nmap | Upcoming |
+| 5. Web Application Security Fundamentals | Upcoming |
+| 6. Burp Suite | Upcoming |
+| 7. Web Application Vulnerabilities 1 | Upcoming |
+| 8. Web Application Vulnerabilities 2 | Upcoming |
+| 9. Vulnerability Knowledge | Upcoming |
+| 10. OWASP Top 10 (2025) | Upcoming |
+| 11. Password Attacks | Upcoming |
+| 12. Metasploit and Exploitation | Upcoming |
+| 13. Privilege Escalation | Upcoming |
+| 14. Active Directory Security Testing Basics | Upcoming |
+| 15. Specialized Domains | Upcoming |
+| 16. Python Scripting Basics | Upcoming |
+| 17. Pentesting Methodologies and Reporting | Upcoming |
+| 18. Jr Pentester Challenges | Upcoming |
 
 ---
 
